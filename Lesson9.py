@@ -170,6 +170,3 @@ while True:
 
 disp_order()
 print("Thank you for your order")
-
-
-asdf asdfasdfsdfads
